@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**abhijeetnardele24-hash/abhijeetnardele24-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I’m a 2nd year Computer Science student at VIT Pune. I like working on real projects and learning things by building applications instead of only focusing on theory.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+I’m interested mainly in full stack development and application-based work.
+
+Technologies I work with:
+- HTML, CSS, JavaScript
+- React
+- Node.js, Express
+- MongoDB
+- Git and GitHub
+
+Currently, I’m trying to:
+- Improve my problem-solving skills
+- Get better at backend logic
+- Learn DSA gradually alongside projects
+
+GitHub: https://github.com/abhijeetnardele24-hash  
+
+
