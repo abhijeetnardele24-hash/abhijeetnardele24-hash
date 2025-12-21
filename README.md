@@ -16,7 +16,7 @@ Technologies I work with:
 Currently, I’m trying to:
 - Improve my problem-solving skills
 - Get better at backend logic
-- Learn DSA gradually alongside projects
+  
 
 GitHub: https://github.com/abhijeetnardele24-hash  
 
