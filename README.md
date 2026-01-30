@@ -1,6 +1,6 @@
 
 
-I’m a 2nd year Computer Science student at VIT Pune. I like working on real projects and learning things by building applications instead of only focusing on theory.
+I’m a 2nd year Computer Science student at VIT Pune. 
 
 
 
