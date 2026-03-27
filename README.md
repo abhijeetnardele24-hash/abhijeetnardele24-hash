@@ -1,324 +1,172 @@
+<!-- Space/Cyberpunk Theme Animated Header -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abhijeet%20Nardele&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Full-Stack+Developer+%F0%9F%92%BB;IoT+%26+Hardware+Engineer+%E2%9A%A1;System+Architect+%F0%9F%8F%97%EF%B8%8F;Building+The+Future%2C+One+Commit+at+a+Time+%F0%9F%9A%80" alt="Typing Animation" />
-
-<p align="center">
-  <img src="https://img.shields.io/badge/VIT_Pune-2nd_Year_CS-6366F1?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Full_Stack_Development-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Passion-IoT_&_Hardware-06B6D4?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhijeetnardele24-hash&label=Profile%20Views&color=6366F1&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/abhijeetnardele24-hash?label=Followers&style=for-the-badge&color=8B5CF6&logo=github" />
-  <img src="https://img.shields.io/github/stars/abhijeetnardele24-hash?label=Total%20Stars&style=for-the-badge&color=06B6D4&logo=github" />
-</p>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-<div align="center">
-
-## 🎯 About Me
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 👨‍💻 Quick Bio
-
-```javascript
-const abhijeet = {
-  location: "📍 Pune, India",
-  education: "🎓 VIT Pune - CS Engineering",
-  role: "💼 Full-Stack Developer",
-  focus: ["Web Apps", "IoT", "System Design"],
-  learning: ["Cloud", "DevOps", "Architecture"],
-  passion: "Building impactful solutions ⚡"
-};
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 What I Create
-
-```yaml
-Web_Development:
-  - "React + Next.js frontends"
-  - "Node.js + Express backends"
-  - "MongoDB + MySQL databases"
-
-Hardware_Projects:
-  - "ESP32 IoT systems"
-  - "Arduino automation"
-  - "Real-time embedded solutions"
-
-Other_Skills:
-  - "System programming in C++"
-  - "Mobile apps with Flutter"
-  - "ML model integration"
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-<div align="center">
-
-## 🛠️ Technology Stack
-
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,dart,html,css,react,nodejs,express,flask,flutter,tailwind,vite,mongodb,mysql,postgres,git,github,docker,postman,vscode,arduino,raspberrypi&perline=12" />
-
-</div>
-
-<details>
-<summary><b>📦 Detailed Tech Stack (Click to Expand)</b></summary>
-
-<br/>
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
-
-</td>
-<td valign="top" width="33%">
-
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-</td>
-</tr>
-
-<tr>
-<td valign="top" width="33%">
-
-### 📱 Mobile
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-</td>
-<td valign="top" width="33%">
-
-### 🔌 IoT & Hardware
-![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat-square&logo=espressif)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi)
-
-</td>
-<td valign="top" width="33%">
-
-### 🛠️ Tools & DevOps
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode)
-
-</td>
-</tr>
-</table>
-
-</details>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-<div align="center">
-
-## 🏆 Featured Projects
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/abhijeetnardele24-hash/land-registry-management-system-deploy-final">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhijeetnardele24-hash&repo=land-registry-management-system-deploy-final&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/abhijeetnardele24-hash/N-Gram-Text-Predictor-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhijeetnardele24-hash&repo=N-Gram-Text-Predictor-&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=C9D1D9" />
-</a>
-
-<a href="https://github.com/abhijeetnardele24-hash/OOPSCP-File-Version-Control">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhijeetnardele24-hash&repo=OOPSCP-File-Version-Control&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/abhijeetnardele24-hash/telegram-otp-door-lock-LDM">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhijeetnardele24-hash&repo=telegram-otp-door-lock-LDM&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=C9D1D9" />
-</a>
-
-<a href="https://github.com/abhijeetnardele24-hash/XTransfer-Flutter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhijeetnardele24-hash&repo=XTransfer-Flutter&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/abhijeetnardele24-hash/-airdrop-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhijeetnardele24-hash&repo=-airdrop-app&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=C9D1D9" />
-</a>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-<div align="center">
-
-## 📊 GitHub Statistics
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhijeetnardele24-hash&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=C9D1D9&ring_color=06B6D4" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeetnardele24-hash&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=06B6D4&fire=8B5CF6&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=06B6D4&dates=C9D1D9&sideNums=6366F1" />
-
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetnardele24-hash&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhijeetnardele24-hash&theme=radical&utcOffset=5.5" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijeetnardele24-hash&theme=high-contrast&hide_border=true&bg_color=0D1117&color=6366F1&line=8B5CF6&point=06B6D4&area=true&area_color=6366F1" width="98%" />
-</div>
-
-<div align="center">
-  
-### 🏆 GitHub Trophies
-  
-<img src="https://github-profile-trophy.vercel.app/?username=abhijeetnardele24-hash&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" width="98%" />
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-<div align="center">
-
-## 🎯 Current Mission
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 📚 Learning Path 2026
-
-- 🔥 Advanced System Design Patterns
-- ☁️ Cloud Architecture (AWS/Azure)
-- 🐳 Docker & Kubernetes
-- 🔐 Cybersecurity Fundamentals
-- 🤖 Machine Learning Engineering
-- ⚡ WebAssembly & Performance
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 Building Now
-
-- 🌐 **SaaS Platform** - Next-gen productivity tool
-- 📱 **Mobile App** - Social networking for developers
-- 🤖 **AI Project** - ML-powered code assistant
-- 🔗 **Blockchain App** - Decentralized storage
-- 🎮 **Game Engine** - 2D game framework in C++
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### 💭 Developer Philosophy
-
-> *"Write code that speaks for itself. Build products that solve real problems.  
-> Ship fast, iterate faster. Never stop learning."*
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-<div align="center">
-
-## 🤝 Let's Connect & Collaborate
 
 <a href="https://github.com/abhijeetnardele24-hash">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=6366F1" />
-</a>
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=8B5CF6" />
-</a>
-<a href="https://linkedin.com/in/yourprofile">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=06B6D4" />
-</a>
-<a href="https://twitter.com/yourhandle">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&color=6366F1" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f172a,06b6d4,8b5cf6&height=280&section=header&text=Abhijeet%20Nardele&fontSize=85&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Architecting%20the%20Digital%20and%20Physical%20World&descAlignY=62&descAlign=50" width="100%"/>
 </a>
 
-<br/><br/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=70&lines=Full-Stack+Software+Engineer+%F0%9F%92%BB;IoT+%26+Hardware+Alchemist+%E2%9A%A1;Crafting+Neo-Brutalist+UIs+%F0%9F%8E%A8;Building+The+Future,+One+Commit+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-### 💬 Open to
+<p align="center">
+  <a href="https://github.com/abhijeetnardele24-hash">
+    <img src="https://komarev.com/ghpvc/?username=abhijeetnardele24-hash&label=PROFILE+VIEWS&color=06B6D4&style=for-the-badge" />
+  </a>
+  <img src="https://img.shields.io/github/followers/abhijeetnardele24-hash?label=FOLLOWERS&style=for-the-badge&color=8B5CF6&logo=github" />
+  <img src="https://img.shields.io/github/stars/abhijeetnardele24-hash?label=TOTAL+STARS&style=for-the-badge&color=3B82F6&logo=github" />
+</p>
 
-```
-✨ Freelance Projects  |  🤝 Collaboration  |  💼 Internship Opportunities
-🎓 Mentorship         |  🏆 Hackathons     |  🚀 Open Source Contribution
-```
+<!-- Cool Isometric Coding Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="750">
 
+</div>
+
+***
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="40" height="40" />
+  <h2>👨‍💻 A Little About My Universe</h2>
+</div>
+
+<table align="center" width="100%" border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Quick Bio</h3>
+      <p>I'm a passionate <b>Full-Stack Developer</b> & <b>IoT Enthusiast</b>. I specialize in building highly scalable web apps, blending beautiful UI/UX (like Liquid Glass & Neo-Brutalist designs) with rock-solid backend architectures.</p>
+      <ul>
+        <li>📍 Based in <b>Pune, India</b> | 🎓 VIT Pune CS</li>
+        <li>🔭 Currently obsessing over an <b>AI-powered SaaS Platform</b></li>
+        <li>🌱 Leveling up in <b>Cloud Architecture (AWS)</b> & <b>WebAssembly</b></li>
+        <li>⚡ Fun fact: I love tearing down hardware and reviving it with <b>ESP32</b> magic.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 Developer Mindset</h3>
+<pre align="left"><code>const abhijeet = {
+  passion: "Building the impossible",
+  skills: {
+    frontend: ["React", "Next.js", "Flutter"],
+    backend:  ["Node.js", "Python", "C++"],
+    hardware: ["ESP32", "Arduino"]
+  },
+  status: "Deploying awesomeness 🚀"
+};
+</code></pre>
+    </td>
+  </tr>
+</table>
+
+***
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="40" height="40" />
+  <h2>🛠️ Technology Arsenal</h2>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,nodejs,express,mongodb,postgres,python,cpp,flutter,dart,arduino,raspberrypi,docker,git,github,vscode,linux&perline=10" />
+</div>
+
+<br/>
+
+***
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Battery.png" width="40" height="40" />
+  <h2>🔥 Pushing Code to the Limit</h2>
 </div>
 
 <br/>
 
 <div align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=abhijeetnardele24-hash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4&icon_color=8b5cf6&text_color=c9d1d9&ring_color=06b6d4" height="190px" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeetnardele24-hash&theme=tokyonight&hide_border=true&background=0f172a&stroke=06b6d4&ring=8b5cf6&fire=06b6d4&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=06b6d4&dates=c9d1d9&sideNums=8b5cf6" height="190px" />
+  </p>
+  
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetnardele24-hash&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4&text_color=c9d1d9" height="190px" />
+  </p>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijeetnardele24-hash&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=06b6d4&line=8b5cf6&point=ffffff&area=true" width="95%" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Made_with-❤️_and_☕-6366F1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Powered_by-Code_&_Creativity-8B5CF6?style=for-the-badge" />
-</p>
+***
 
-**© 2026 Abhijeet Nardele • Building the future, one commit at a time 🚀**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width="40" height="40" />
+  <h2>🏆 Hall of Fame</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=abhijeetnardele24-hash&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="95%" />
+</div>
 
+<br/>
+
+***
+
+<div align="center">
+  <h2>🎯 Featured Masterpieces</h2>
+</div>
+
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/abhijeetnardele24-hash/land-registry-management-system-deploy-final">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhijeetnardele24-hash&repo=land-registry-management-system-deploy-final&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4&icon_color=8b5cf6&text_color=c9d1d9" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/abhijeetnardele24-hash/N-Gram-Text-Predictor-">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhijeetnardele24-hash&repo=N-Gram-Text-Predictor-&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4&icon_color=8b5cf6&text_color=c9d1d9" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/abhijeetnardele24-hash/OOPSCP-File-Version-Control">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhijeetnardele24-hash&repo=OOPSCP-File-Version-Control&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4&icon_color=8b5cf6&text_color=c9d1d9" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/abhijeetnardele24-hash/telegram-otp-door-lock-LDM">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhijeetnardele24-hash&repo=telegram-otp-door-lock-LDM&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4&icon_color=8b5cf6&text_color=c9d1d9" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/abhijeetnardele24-hash/XTransfer-Flutter">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhijeetnardele24-hash&repo=XTransfer-Flutter&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4&icon_color=8b5cf6&text_color=c9d1d9" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/abhijeetnardele24-hash/-airdrop-app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhijeetnardele24-hash&repo=-airdrop-app&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4&icon_color=8b5cf6&text_color=c9d1d9" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+***
+
+<div align="center">
+  <h2>🤝 Let's Build Something Awesome</h2>
+  
+  <p>
+    <a href="https://github.com/abhijeetnardele24-hash">
+      <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=06B6D4" />
+    </a>
+    <a href="mailto:your.email@example.com">
+      <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=8B5CF6" />
+    </a>
+    <a href="https://linkedin.com/in/yourprofile">
+      <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=3B82F6" />
+    </a>
+  </p>
+
+  <p><i>Always open for <b>collaborations, hackathons</b> & writing <b>clean code</b>.</i></p>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8b5cf6,06b6d4,0f172a&height=150&section=footer" width="100%"/>
+  
+  <p><b>© 2026 Abhijeet Nardele • Never stop learning 🚀</b></p>
 </div>
