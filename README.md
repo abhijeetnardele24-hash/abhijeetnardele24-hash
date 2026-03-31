@@ -1,10 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e7490,100:7c3aed&height=200&section=header&text=Abhijeet%20Nardele&fontSize=60&fontColor=f0f6fc&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20Engineer%20%7C%20IoT%20Hacker%20%7C%20UI%20Craftsman&descAlignY=68&descAlign=50&descSize=16" width="100%" />
-
-<p align="center">
-  <a href="https://github.com/abhijeetnardele24-hash"><img src="https://komarev.com/ghpvc/?username=abhijeetnardele24-hash&label=Profile%20Views&color=0e7490&style=flat-square" /></a>
-  <img src="https://img.shields.io/badge/Open%20to-Collaborations%20%26%20Hackathons-7c3aed?style=flat-square" />
-  <img src="https://img.shields.io/badge/Based%20in-Pune%2C%20India%20🇮🇳-f59e0b?style=flat-square&labelColor=0d1117" />
-</p>
 
 ---
 
@@ -72,20 +65,9 @@ const abhijeet = {
 | [📲 XTransfer Flutter](https://github.com/abhijeetnardele24-hash/XTransfer-Flutter) | Cross-platform file transfer app with a clean, fast UI | Flutter, Dart |
 | [📡 Airdrop App](https://github.com/abhijeetnardele24-hash/-airdrop-app) | Local network file sharing — no internet, no accounts, just transfer | Flutter, Dart |
 
----
 
-## GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhijeetnardele24-hash&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0e7490&icon_color=7c3aed&text_color=8b949e&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetnardele24-hash&layout=compact&langs_count=7&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0e7490&text_color=8b949e" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijeetnardele24-hash&theme=github-compact&hide_border=true&bg_color=0d1117&color=0e7490&line=7c3aed&point=f0f6fc&area=true" width="96%" />
-</p>
-
----
 
 ## Connect
 
@@ -105,4 +87,3 @@ I'm genuinely open to collabs, interesting problems, or just talking tech. Hit m
 
 > *"Ship it, learn from it, improve it. Repeat."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0d1117&height=100&section=footer" width="100%" />
