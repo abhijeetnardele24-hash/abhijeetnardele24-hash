@@ -151,13 +151,6 @@ const abhijeet = {
 
 <h2>What I Like Building</h2>
 
-<ul>
-  <li>Full-stack web products with clean architecture</li>
-  <li>Flutter apps with smooth, polished UX</li>
-  <li>IoT systems using ESP32 and Raspberry Pi</li>
-  <li>Tools that solve practical real-world problems</li>
-</ul>
-
 <hr>
 
 <h2>Connect</h2>
@@ -177,7 +170,3 @@ const abhijeet = {
     <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
 </p>
-
-<blockquote>
-  <i>Build thoughtfully. Ship confidently. Improve continuously.</i>
-</blockquote>
