@@ -3,7 +3,7 @@
 Full-Stack Developer | Flutter | IoT
 
 [GitHub](https://github.com/abhijeetnardele24-hash) • [Email](mailto:abhijeet.nardele24@gmail.com) • [LinkedIn](https://www.linkedin.com/in/abhijeet-nardele-04864a36a/)
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Projects
 
 - [Land Registry System](https://github.com/abhijeetnardele24-hash/land-registry-management-system-deploy-final)
@@ -18,3 +18,4 @@ Full-Stack Developer | Flutter | IoT
   Cross-platform file transfer app built with Flutter for fast local sharing.
 - [Airdrop App](https://github.com/abhijeetnardele24-hash/-airdrop-app)
   Local network file-sharing app for quick device-to-device transfers.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
