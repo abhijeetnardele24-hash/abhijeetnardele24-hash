@@ -1,12 +1,4 @@
 
-                                                                  Abhijeet Nardele
-                                                                                   
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Full-Stack Developer | Flutter | IoT
-
-[GitHub](https://github.com/abhijeetnardele24-hash) • [Email](mailto:abhijeet.nardele24@gmail.com) • [LinkedIn](https://www.linkedin.com/in/abhijeet-nardele-04864a36a/)
-
-![Profile Views](https://komarev.com/ghpvc/?username=abhijeetnardele24-hash&style=flat-square&color=0e75b6)
 
 ## Projects
 
