@@ -9,12 +9,13 @@ I thrive on engineering smart software architectures, pushing the limits with AI
 
 I'm constantly looking to level up my skills. I'm always eager to **team up on open-source projects, exchange innovative ideas, and dive into constructive code reviews** 🤝
 
-⭐ Drop a star on my repositories or hit follow if you'd like to stay connected !!
+⭐ **Drop a star on my repositories or hit follow if you'd like to stay connected !!**
 
 ---
 
 ### ⚡ Featured Projects
 
+- **[Airshare](https://github.com/abhijeetnardele24-hash/Airshare)** — A lightning-fast, high-performance decentralized file transfer application built with Flutter & WiFi Direct.
 - **[FloatChat AI](https://github.com/abhijeetnardele24-hash/FloatChat-Ai)** — An intelligent, floating conversational AI assistant with a seamless and interactive user interface.
 - **[Civic Sense](https://github.com/abhijeetnardele24-hash/civic-sense-fix)** — A Flutter-based civic engagement application designed for community reporting and issue resolution. 
 - **[MedLink](https://github.com/abhijeetnardele24-hash/medlink)** — Resilient, next-gen telemedicine platform built for low-bandwidth & offline-first healthcare.
